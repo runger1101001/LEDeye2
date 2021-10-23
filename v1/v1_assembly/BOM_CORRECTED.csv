@@ -1,0 +1,9 @@
+Item #,Ref Des,Qty,Manufacturer,Mfg Part #, Description / Value,Package,Type,Your Instructions / Notes
+1,C1,1,Generic,Capacitor,100nF 6.3V,0402,SMD,"Unpolarized capacitor, small symbol"
+2,C2,1,Generic,Capacitor,4.7µF 6.3V,0402,SMD,"Unpolarized capacitor, small symbol"
+3,D1,1,Generic,SML-P12MTT86,LED Green (λ 560nm)  Vf 2.1V @20mA,0402,SMD,"Light emitting diode, small symbol"
+4,"R1, R2",2,Generic,Resistor,10kΩ,0402,SMD,"Resistor, small symbol"
+5,R3,1,Generic,Resistor,4.7kΩ,0402,SMD,"Resistor, small symbol"
+6,U1,1,ST Micro,VL53L1,VL53L1,"Optical LGA12 
+QFN_BV0FY1_STM",SMD,Time-of-Flight ranging sensor with advanced multi-zone and multi-object detection
+7,J6,1,JST,BM04B-SRSS-TB ,BM04B-SRSS-TB  4-pin Vertical,BM04B-SRSS-TB ,SMD,JST SH 4-pin Vertical
